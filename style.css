@@ -1,0 +1,62 @@
+header {
+    display: flex;
+    padding: 30px;
+}
+
+header nav {
+    display: inline-flex;
+    position: absolute;
+    right: 15%;
+    padding: 25px;
+}
+
+header h1 {
+    margin-left: 20%;
+}
+
+nav a {
+    color: black;
+}
+
+header nav ul {
+    display: inline-flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.sec1 {
+    display: flex;
+}
+
+.aboutme {
+   position: absolute;
+   left: 12%;
+   width: 35%;
+}
+
+.aboutme p {
+    font-size: 18px;
+    line-height: 25px;
+    
+}
+
+img {
+    width: 400px;
+    height: 600px;
+    border-radius: 8px;
+}
+
+.photo {
+    position: absolute;
+    right: 12%;
+}
+
+
+figure figcaption {
+    position: relative;
+    top: 2px;
+}
+
+
+
+
